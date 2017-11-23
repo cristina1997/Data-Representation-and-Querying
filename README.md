@@ -1,9 +1,9 @@
 # Data-Representation-and-Querying
 ## Problem Sheets
 These are my answers related to the 3rd year Software Development problem sheets for **[Data Representation and Querying](https://data-representation.github.io)**.
-1. [Problem sheet 1](#Problem-Sheet-1)
-2. [Problem sheet 2](#Problem-Sheet-2)
-3. [Problem sheet 3](#Problem-Sheet-4)
+1. [Problem sheet 1](# Problem-Sheet-1)
+2. [Problem sheet 2](# Problem-Sheet-2)
+3. [Problem sheet 3](# Problem-Sheet-4)
 
 
 # Problem Sheet 1
@@ -12,7 +12,7 @@ These are my answers related to the 3rd year Software Development problem sheet 
 It is implemented as a web app in Go language (**[a language created by google](https://en.wikipedia.org/wiki/Go_(programming_language))**).
 More information in relation to the Overview and Instructions of this problem sheet can be found **[here](https://data-representation.github.io/problems/go-fundamentals.html)**
 
-***
+
 ## Run
 First and foremost, you will need to install [Go](https://golang.org/dl/) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (if not already installed).
 
@@ -44,7 +44,7 @@ These are my answers related to the 3rd year Software Development problem sheet 
 It is implemented as a web app in Go language (**[a language created by google](https://en.wikipedia.org/wiki/Go_(programming_language))**).
 More information in relation to the Overview and Instructions of this problem sheet can be found **[here](https://data-representation.github.io/problems/go-web-applications.html)**
 
-***
+
 ## Run
 First and foremost, you will need to install [Go](https://golang.org/dl/) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (if not already installed).
 
@@ -87,7 +87,7 @@ These are my answers related to the 3rd year Software Development problem sheet 
 It is implemented as a web app in Go language (**[a language created by google](https://en.wikipedia.org/wiki/Go_(programming_language))**).
 More information in relation to the Overview and Instructions of this problem sheet can be found **[here](https://data-representation.github.io/problems/go-regexp.html)**
 
-***
+
 ## Run
 First and foremost, you will need to install [Go](https://golang.org/dl/) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (if not already installed).
 
