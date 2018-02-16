@@ -103,7 +103,7 @@ First and foremost, you will need to install [Go](https://golang.org/dl/) and [G
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```> cd FolderLocation```
 
-**3. Run*
+**3. Run**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open the html file in a browser using the following command
 
